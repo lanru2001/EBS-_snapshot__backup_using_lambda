@@ -1,4 +1,4 @@
-# Backup all in-use volumes in all regions
+# Automated EBS Snapshots using AWS Lambda & CloudWatch
 
 import boto3
 
